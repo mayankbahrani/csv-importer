@@ -81,13 +81,3 @@ Use Postman, Insomnia, or curl:
 Method: POST
 URL: http://localhost:3000/process-csv
 Body: Empty JSON {}
-
---- Age Distribution Report ---
-Total Records: 6
-Age-Group               % Distribution
---------------------------------
-< 20                    16.67
-20 to 40                50.00
-40 to 60                16.67
-> 60                    16.67
---------------------------------
