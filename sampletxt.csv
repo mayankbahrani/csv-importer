@@ -1,0 +1,7 @@
+name.firstName,name.lastName,age,address.line1,address.city,address.state,gender,contact.phone,is_active
+Amit,Sharma,38,101 Cloud Tower,Bangalore,Karnataka,male,9876543210,true
+Priya,Verma,25,2B Ocean View,Mumbai,Maharashtra,female,9900112233,true
+Rohit,Prasad,35,A-563 Rakshak Society,Pune,Maharashtra,male,8888777766,true
+Sneha,Reddy,18,G-1 Garden Apt,Hyderabad,Telangana,female,7777555544,false
+Arjun,Singh,65,77 Hilltop View,Delhi,NCR,male,6666333322,true
+Kavita,Joshi,42,404 Park Avenue,Chennai,Tamil Nadu,female,9000100020,false
